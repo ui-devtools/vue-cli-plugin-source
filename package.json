@@ -1,0 +1,10 @@
+{
+  "name": "vue-cli-plugin-source",
+  "version": "1.0.0",
+  "description": "Add source location to elements",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "siddharthkp",
+  "license": "MIT"
+}
