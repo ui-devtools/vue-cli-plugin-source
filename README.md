@@ -26,27 +26,27 @@
 ```html
 <div
   id="app"
-  data-source='"{
+  data-source="{
     "filename": "root/src/App.vue",
     "start": 0,
     "end": 14
-  }"'
+  }"
 >
   <img
     alt="Vue logo"
     src="./assets/logo.png"
-    data-source='"{
+    data-source="{
       "filename": "root/src/App.vue",
       "start": 17,
       "end": 61
-    }"'
+    }"
   />
   <h1
-    data-source='"{
+    data-source="{
       "filename": "root/src/HelloWorld.vue",
       "start": 22,
       "end": 26
-    }"'
+    }"
   >
     Welcome to Your Vue.js App
   </h1>
